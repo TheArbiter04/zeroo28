@@ -1,4 +1,4 @@
-### Hello, world! I'm Zeroo 🍀.
+<h1>Hello, world! I'm Zeroo 🍀</h1>
 <img align="right" src="https://cdn.discordapp.com/emojis/980254975198363678.gif?size=128&quality=lossless"/>
 
 ### About me
