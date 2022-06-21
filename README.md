@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello, world! I'm Zeroo 🍀.
+<img align="right" src="https://cdn.discordapp.com/emojis/980254975198363678.gif?size=128&quality=lossless"/>
 
-<!--
-**Zeroo28/zeroo28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Discord RPC](https://github.com/Zeroo28/discord_rpc).
+- 🌱 I’m currently learning Angular! Phew...
+- 👯 We can collaborate on anything that you like :D
+- 💬 We can talk about food all day long!
+- 📫 You can reach me on my [socials](#my_socials).
+- 😄 Pronouns: Any ( but I prefer they/them )
+- ⚡ Fun fact: I'm cool, for real.
+- ❤️ I working with `.kt`, `.ts` and `.dart`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My GitHub statistics
+
+<p align="center">
+  <img alt="my stats" src="https://github-readme-streak-stats.herokuapp.com?user=Zeroo28&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Zeroo28&show_icons=true&theme=dracula&hide_border=true"/>
+</p>
+
+### My socials
+
+<a href="https://twitter.com/zeroolah"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+<a href="https://discord.gg/srP9yaHrWs" alt="my discord server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
