@@ -14,10 +14,9 @@
 
 ### My GitHub statistics
 
-<p align="">
-  <img alt="my stats" src="https://github-readme-streak-stats.herokuapp.com?user=Zeroo28&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-  <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Zeroo28&show_icons=true&theme=dracula&hide_border=true"/>
-</p>
+<img align="left" alt="my stats" src="https://github-readme-streak-stats.herokuapp.com?user=Zeroo28&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Zeroo28&show_icons=true&theme=dracula&hide_border=true"/>
+
 
 ### My socials
 
