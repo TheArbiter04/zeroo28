@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Angular! Phew...
 - 👯 We can collaborate on anything that you like :D
 - 💬 We can talk about food all day long!
-- 📫 You can reach me on my [socials](#my_socials).
+- 📫 You can reach me on my [socials](#my-socials).
 - 😄 Pronouns: Any ( but I prefer they/them )
 - ⚡ Fun fact: I'm cool, for real.
 - ❤️ I working with `.kt`, `.ts` and `.dart`
