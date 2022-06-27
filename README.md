@@ -10,7 +10,7 @@
 - 📫 You can reach me on my [socials](#my-socials).
 - 😄 Pronouns: Any ( but I prefer they/them )
 - ⚡ Fun fact: I'm cool, for real.
-- ❤️ I working with `.kt`, `.ts` and `.dart`
+- ❤️ I love working with `.kt`, `.ts` and `.dart`
 
 ### My GitHub statistics
 
