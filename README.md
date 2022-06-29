@@ -26,4 +26,4 @@
 ### My socials
 
 <a href="https://twitter.com/zeroolah"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-<a href="https://discord.gg/srP9yaHrWs" alt="my discord server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+<!-- <a href="https://discord.gg/srP9yaHrWs" alt="my discord server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a> -->
