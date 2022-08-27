@@ -11,6 +11,7 @@
 - 😄 Pronouns: Any ( but I prefer they/them )
 - ⚡ Fun fact: I'm cool, for real.
 - ❤️ I love working with `.kt`, `.ts` and `.dart`
+- 🫢 Psst! This is my personal profile.
 
 ### My GitHub statistics
 
