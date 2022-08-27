@@ -3,7 +3,7 @@
 
 ### About me
 
-- 🔭 I’m currently working on [Discord RPC](https://github.com/Zeroo28/discord_rpc).
+- 🔭 ~~I’m currently working on [Discord RPC](https://github.com/Zeroo28/discord_rpc)~~. Unfortunately I'm busy with life at the moment ):
 - 🌱 I’m currently learning Angular! Phew...
 - 👯 We can collaborate on anything that you like :D
 - 💬 We can talk about food all day long!
