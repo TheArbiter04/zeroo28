@@ -3,7 +3,7 @@
 
 ### About me
 
-- 🔭 Busy with IRL work right now...
+- 🔭 Still busy with IRL work right now...
 - 🌱 Newbie at SSH and FTP
 - 👯 Reach me out on my socials if you want to collaborate with me 👀
 - 💬 Conversation topics? Food and food and food!
