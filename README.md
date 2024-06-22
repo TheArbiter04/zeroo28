@@ -3,10 +3,10 @@
 
 ### About me
 
-- 🔭 Still busy with IRL work right now...
+- 🔭 Working on [Wuthering Waves Convene Tracker](https://wuwaabby.moe) whenever I'm free
 - 🌱 Newbie at SSH and FTP
 - 👯 Reach me out on my socials if you want to collaborate with me 👀
-- 💬 Conversation topics? Food and food and food!
+- 💬 Conversation topics? Anything.. probably.
 - 🤔 Fun fact: China invented noodles
 - :heart: `.kt`, `.ts` and `.cs` are my BFFs ( `.dart` too but he's shy :P )
 - 🫢 Psst! This is my personal profile.
